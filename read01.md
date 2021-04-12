@@ -17,7 +17,7 @@ Sometimes you want bullet points:
 - Start a line with a star
 - Profit!
 
-- you can add image by write ![Image](link of image) like this ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+- you can add image by write like this ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 
 
 # There are a lot of options that can be used you can see it in this website [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
