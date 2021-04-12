@@ -18,4 +18,4 @@ To keep myself in a growth mindset i ddoing some thing like:
 
 if you want to learn more about growth minddset visit this link  [growth mindset](https://www.mindsetworks.com/science/)
 
-[read01](https://abrar189.github.io/reading-notes/read01.md)
+[read01](https://abrar189.github.io/reading-notes/read01)
