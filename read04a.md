@@ -22,7 +22,8 @@ This is where we can change how the page behaves, adding interactivity. We will 
 
 When you want to use JavaScript with a web page, you use the HTML
 <script> element to tell the browser it is coming across a script.
-Its s re attribute tells people where the JavaScript file is stored
+Its s re attribute tells people where the JavaScript file is stored.
+
 
 
 
