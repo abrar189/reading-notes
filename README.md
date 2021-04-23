@@ -18,10 +18,19 @@ To keep myself in a growth mindset i ddoing some thing like:
 
 if you want to learn more about growth minddset visit this link  [growth mindset](https://www.mindsetworks.com/science/)
 
-[read01](https://abrar189.github.io/reading-notes/read01)
 
+## Table of contents:
 
-[read02](https://abrar189.github.io/reading-notes/read02)
-
-
-[read](https://abrar189.github.io/reading-notes/read)
+|  num | contents  |  url |
+|---|---|---|---|
+| 1  | read  |[read](https://abrar189.github.io/reading-notes/read)|
+| 2  | read01  | [read01](https://abrar189.github.io/reading-notes/read01)
+  |   
+| 3  | read02  | [read02](https://abrar189.github.io/reading-notes/read02)  |   
+|  4 | read04a  | [read04a](https://abrar189.github.io/reading-notes/read04a)
+|5|read04b|[read04b](https://abrar189.github.io/reading-notes/read04b)
+|  6 |  read05| [read05](https://abrar189.github.io/reading-notes/read05)  | 
+|   7|  read06 |[read06](https://abrar189.github.io/reading-notes/read06)   |   
+|   8|   read07| [read07](https://abrar189.github.io/reading-notes/read07)  |
+|  9 | read09| [read09](https://abrar189.github.io/reading-notes/read09)  |
+|10|201 reading notes|---|

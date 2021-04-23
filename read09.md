@@ -18,6 +18,6 @@ Ok, what about third-party options? Let’s talk about software like: **Notepad+
 
 ## The Difference Between Text Editors and IDEs
 
-A text editor kind of gives away what it does in the title—it edits text.It also manages text, and manages files
+- A text editor kind of gives away what it does in the title—it edits text.It also manages text, and manages files
 
-An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
+- An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
