@@ -22,3 +22,9 @@
 2. The new elements provide clearer code (compared with using multiple <div> elements).
 3. Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 4. To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+
+# THE ABC OF PROGRAMMING
+ 1. script is a series of instructions that the computer can follow in order to achieve a goal. 
+2. Each time the script runs, it might only use a subset of all the instructions. 
+3. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
+4. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
