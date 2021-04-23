@@ -33,4 +33,4 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |   8|   read07| [read07](https://abrar189.github.io/reading-notes/read07)  |
 |  9 | read09| [read09](https://abrar189.github.io/reading-notes/read09)  |
 |10|201 reading notes|---|
-|11|class01|---|
+|11|class01|[class01](https://abrar189.github.io/reading-notes/class01)|
