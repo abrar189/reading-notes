@@ -23,14 +23,15 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 
 |  num | contents  |  url |
 |---|---|---|---|
-| 1  | read  |[read](https://abrar189.github.io/reading-notes/read)|
-| 2  | read01  | [read01](https://abrar189.github.io/reading-notes/read01)
-| 3  | read02  | [read02](https://abrar189.github.io/reading-notes/read02)  |   
-|  4 | read04a  | [read04a](https://abrar189.github.io/reading-notes/read04a)
-|5|read04b|[read04b](https://abrar189.github.io/reading-notes/read04b)
-|  6 |  read05| [read05](https://abrar189.github.io/reading-notes/read05)  | 
-|   7|  read06 |[read06](https://abrar189.github.io/reading-notes/read06)   |   
-|   8|   read07| [read07](https://abrar189.github.io/reading-notes/read07)  |
-|  9 | read09| [read09](https://abrar189.github.io/reading-notes/read09)  |
-|10|201 reading notes|---|
-|11|class01|[class01](https://abrar189.github.io/reading-notes/class01)|
+|1|102 reading notes|
+| 1.1  | read  |[read](https://abrar189.github.io/reading-notes/read)|
+| 1.2  | read01  | [read01](https://abrar189.github.io/reading-notes/read01)
+| 1.3  | read02  | [read02](https://abrar189.github.io/reading-notes/read02)  |   
+|  1.4 | read04a  | [read04a](https://abrar189.github.io/reading-notes/read04a)
+|1.5|read04b|[read04b](https://abrar189.github.io/reading-notes/read04b)
+|  1.6|  read05| [read05](https://abrar189.github.io/reading-notes/read05)  | 
+| 1.7|  read06 |[read06](https://abrar189.github.io/reading-notes/read06)   |   
+| 1.8|   read07| [read07](https://abrar189.github.io/reading-notes/read07)  |
+| 1.9| read09| [read09](https://abrar189.github.io/reading-notes/read09)  |
+|2|201 reading notes
+|2.1|class01|[class01](https://abrar189.github.io/reading-notes/class01)|
