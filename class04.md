@@ -5,11 +5,10 @@ links are the defining feature of the web because they allow you to move from on
 
 ## Linking to Other Sites
 
-- <a> chapter-04/linking-to-other-sites.html HTML Links are created using the <a> element which has an attribute called href. The value of the href attribute is the page that you want people to go to when they click on the link.
+- <a> Links are created using the <a> element which has an attribute called href. The value of the href attribute is the page that you want people to go to when they click on the link.
 
 ## Email Links
-- mailto: chapter-04/email-links.html HTML To create a link that starts up
-the user's email program and addresses an email to a specified email address, you use the <a> element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
+- mailto:  To create a link that starts up the user's email program and addresses an email to a specified email address, you use the <a> element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
 
 ## Opening Links in a New Window
 - target If you want a link to open in a new window, you can use the target attribute on the opening <a> tag. The value of this attribute should be _blank.
