@@ -43,3 +43,4 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |2.8|class07|[class07](https://abrar189.github.io/reading-notes/class07)|
 |2.9|class08|[class08](class08.md)|
 |2.10|class09|[class9](class9.md)|
+|2.11|class10|[class10](class10.md)|
