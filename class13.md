@@ -23,12 +23,12 @@ Historically, web applications have had none of these luxuries. Cookies were inv
 
  ![image](https://image.slidesharecdn.com/html5localstorage-140511235722-phpapp01/95/html5-local-storage-6-638.jpg?cb=1399852926)
 
- ## USING HTML5 STORAGE
+ ##  USING HTML5 STORAGE
 
  HTML5 Storage is based on named key/value pairs. You store data based on a named key, then you can retrieve that data with the same key. The named key is a string. The data can be any type supported by JavaScript, including strings, Booleans, integers, or floats. However, the data is actually stored as a string. If you are storing and retrieving anything other than strings, you will need to use functions like parseInt() or parseFloat() to coerce your retrieved data into the expected JavaScript datatype.
 
  ![image](https://miro.medium.com/max/1134/1*OpOBcqJpawgs4ehT1eKZnA.png)
 
- ## STORAGEEVENT OBJECT
+ ##  STORAGEEVENT OBJECT
 
  ![image](img/storage.png)
