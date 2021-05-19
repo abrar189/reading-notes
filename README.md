@@ -47,4 +47,8 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |2.12|class11|[class11](class11.md)|
 |2.13|class12|[class12](class12.md)|
 |2.14|class13|[class13](class13.md)|
+|2.15|class14|[class14](class14.md)|
+|2.16|class14b|[class14b](class14b.md)|
+
+
 
