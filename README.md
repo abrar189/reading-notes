@@ -33,7 +33,7 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 | 1.7|  read06 |[read06](https://abrar189.github.io/reading-notes/read06)   |   
 | 1.8|   read07| [read07](https://abrar189.github.io/reading-notes/read07)  |
 | 1.9| read09| [read09](https://abrar189.github.io/reading-notes/read09)  |
-|2|201 reading notes
+|2|201 reading notes|
 |2.1|class01|[class01](https://abrar189.github.io/reading-notes/class01)|
 |2.3|class02|[class02](https://abrar189.github.io/reading-notes/class02)|
 |2.4|class03|[class03](https://abrar189.github.io/reading-notes/class03)|
@@ -49,6 +49,10 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |2.14|class13|[class13](class13.md)|
 |2.15|class14|[class14](class14.md)|
 |2.16|class14b|[class14b](class14b.md)|
+|3|301 reading notes|
+|3.1|class1|[class1](class1.md)|
+
+
 
 
 
