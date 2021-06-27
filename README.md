@@ -54,4 +54,4 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |2.16|class14b|[class14b](class14b.md)|
 |3|301 reading notes
 |3.1|class1|[class1](class1.md)|
-|3.2|class2|[class2](class.md)|
+|3.2|class2|[class2](class2.md)|
