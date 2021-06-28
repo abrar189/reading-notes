@@ -51,8 +51,7 @@ The result looks like this:
 
 ![image](img/result.png)
 
-
 ## IF YOU WANT TO KNOW MORE ABOUT THIS YOU SHOULD VISIT THESE LINKS
- 
+
  [React Docs - handling events](https://reactjs.org/docs/handling-events.html)
  [React Tutorial through ‘Developer Tools’](https://reactjs.org/tutorial/tutorial.html)
