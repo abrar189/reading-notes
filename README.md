@@ -59,4 +59,5 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |3.4|class4|[class4](class4.md)|
 |3.5|class5|[class5](class5.md)|
 |3.6|class6|[class6](class6.md)|
+|3.7|class7|[class7](class7.md)|
 
