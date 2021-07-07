@@ -6,16 +6,16 @@ Charts are far better for displaying data visually than tables and have the adde
 ##  Setting up
 The first thing we need to do is [download Chart.js](https://github.com/chartjs/Chart.js). Copy the Chart.min.js out of the unzipped folder and into the directory you’ll be working in. Then create a new html page and import the script:
 
-![image](img/chart.png)
+![image](../img/chart.png)
 
 ## Drawing a line chart
 To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page:
 
-![image](img/chart1.png)
+![image](../img/chart1.png)
 
 Next, we need to write a script that will retrieve the context of the canvas, so add this to the foot of your body element:
 
-![image](img/chart 2.png)
+![image](../img/chart 2.png)
 
 # Creating a Chart
 
@@ -28,4 +28,4 @@ If fallback content is not needed, a simple < canvas id="foo" ...></ canvas> is 
 
 ## Example 
 
-![image](img/ex chart.png)
+![image](../img/exchart.png)

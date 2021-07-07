@@ -39,7 +39,7 @@ Each cell of a table is represented using a `<td>` element. (The td stands for t
 
 The `<th>` element is used just like the `<td>` element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
 
-![image](https://lh3.googleusercontent.com/proxy/47ucXFODVOTjc-vpNsOlhJAIl_hgaewkLx4ny4Wy6NWhOTLjD0HkUVkZ1hkIS4SlWmyMjjmFOpNsg-BrK7lKQVo29VHfrxmeT05PJ35LBxsYDKiEf2A)
+![image](https://lh3.googleusercontent.com/proxy47ucXFODVOTjc-vpNsOlhJAIl_hgaewkLx4ny4Wy6NWhOTLjD0HkUVkZ1hkIS4SlWmyMjjmFOpNsg-BrK7lKQVo29VHfrxmeT05PJ35LBxsYDKiEf2A)
 
 # FUNCTIONS, METHODS & OBJECTS
 

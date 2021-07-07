@@ -8,7 +8,7 @@ The transform property comes in two different settings, two-dimensional and thre
 
 - Transform Syntax
 
-![image](img/transforms.png)
+![image](../img/transforms.png)
 
 # 2D Transforms
 
@@ -32,7 +32,7 @@ There are four transition related properties in total, including transition-prop
 It is important to note, not all properties may be transitioned, only properties that have an identifiable halfway point. Colors, font sizes, and the alike may be transitioned from one value to another as they have recognizable values in-between one another.
  The display property, for example, may not be transitioned as it does not have any midpoint. A handful of the more popular transitional properties include the following.
 
- ![image](img/transition.png)
+ ![image](../img/transition.png)
 
 ## Transition Duration
 
@@ -46,6 +46,6 @@ Transitions do a great job of building out visual interactions from one state to
 
 To set multiple points at which an element should undergo a transition, use the @keyframes rule. The @keyframes rule includes the animation name, any animation breakpoints, and the properties intended to be animated.
 
-![image](img/key.png)
+![image](../img/key.png)
 
 - If you want to laren more of this thing [click hear](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)

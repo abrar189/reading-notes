@@ -52,12 +52,12 @@ I will be explaining how to use Props step by step:
 
 **Firstly**, define an attribute and its value(data)
 
-![image](img/react.png)
+![image](../img/react.png)
 
 **Then** pass it to child component(s) by using Props
 **Finally**, render the Props Data
 
-![image](img/react1.png)
+![image](../img/react1.png)
 
 - ## What is the flow of props?
 
@@ -67,4 +67,4 @@ Early in React’s history the library provided PropTypes which performed basic 
 
 There are some Babel plugins which will generate PropTypes from Flow types such as babel-plugin-react-flow-props-to-prop-types if you want both static and runtime checks.
 
-![image](img/flow.png)
+![image](../img/flow.png)

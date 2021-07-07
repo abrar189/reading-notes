@@ -31,4 +31,4 @@ Historically, web applications have had none of these luxuries. Cookies were inv
 
  ##  STORAGEEVENT OBJECT
 
- ![image](img/storage.png)
+ ![image](../img/storage.png)

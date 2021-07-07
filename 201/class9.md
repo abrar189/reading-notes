@@ -38,18 +38,18 @@ properties.
 
 - list example:
 
-![image](img/list.png)
+![image](../img/list.png)
 
 # EVENTS
 
-![image](img/EVENT.png)
+![image](../img/EVENT.png)
 
 - EVENT LISTENERS
 Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers
 
 the syntax :
 
- ![image](img/event2.png)
+ ![image](../img/event2.png)
 
  1. Events are the browser's way of indicating when something has happened (such as when a page has finished loading or a button has been clicked).
  2. Binding is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen upon.

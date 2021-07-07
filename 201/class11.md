@@ -5,7 +5,7 @@
 You can control the size of an image using the width and height properties in CSS, just like you can for any other box. Specifying image sizes helps
 pages to load more smoothly because the HTML and CSS code will often load before the images, and telling the browser how much space to leave for an image allows it to render the rest of the page without waiting for the image to download.
 
-![image](img/img.png)
+![image](../img/img.png)
 
 ## Centering images Using CSS
 
@@ -40,4 +40,4 @@ In every page of your website there are seven key places where keywords
 (the words people might search on to find your site) can appear in order
 to improve its findability.
 
-![image](img/page.png)
+![image](../img/page.png)

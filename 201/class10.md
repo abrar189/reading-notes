@@ -34,7 +34,7 @@ When a variable is declared within a function, it can only be used within that f
 
 Error objects can help you find where your mistakes are and browsers have tools to help you read them. 
 
-![image](img/er2.png)
+![image](../img/er2.png)
 
 ## Summary :
 

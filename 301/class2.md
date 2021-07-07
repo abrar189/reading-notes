@@ -4,7 +4,7 @@
 
 React lets you define components as classes or functions. The methods that you are able to use on these are called lifecycle events. These methods can be called during the lifecycle of a component, and they allow you to update the UI and application states.
 
-![image](img/componanet.png)
+![image](../img/componanet.png)
 
 ## React State Vs Props
 
@@ -39,7 +39,7 @@ You can convert a function component like Clock to a class in five steps:
 - Replace props with this.props in the render() body.
 - Delete the remaining empty function declaration.
 
-![image](img/class.png)
+![image](../img/class.png)
 
 ## Adding Local State to a Class
 
@@ -49,7 +49,7 @@ You can convert a function component like Clock to a class in five steps:
 
 The result looks like this:
 
-![image](img/result.png)
+![image](../img/result.png)
 
 ## IF YOU WANT TO KNOW MORE ABOUT THIS YOU SHOULD VISIT THESE LINKS
 

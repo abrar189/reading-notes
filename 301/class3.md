@@ -3,13 +3,13 @@
 1. What does .map() return?
 Given the code below, we use the map() function to take an array of numbers and double their values. We assign the new array returned by map() to the variable doubled and log it.
 
-![image](img/map.png)
+![image](../img/map.png)
 
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
  we loop through the numbers array using the JavaScript map() function. using {}
  we loop through the numbers array using the JavaScript map() function. We return a < li> element for each item. Finally, we assign the resulting array of elements to listItems
 
-![image](img/loop map.png)
+![image](../img/loopmap.png)
 
 3. Each list item needs a unique kay.
 
@@ -33,7 +33,7 @@ The spread operator is a useful and quick syntax for adding items to arrays, com
 
 3. Give an example of using the spread operator to combine two arrays.
 
-![image](img/combin.png)
+![image](../img/combin.png)
 
 - Give an example of using the spread operator to add a new item to an array.
 
@@ -41,4 +41,4 @@ The spread operator is a useful and quick syntax for adding items to arrays, com
 
 - Give an example of using the spread operator to combine two objects into one.
 
-![image](img/object.png)
+![image](../img/object.png)

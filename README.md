@@ -44,21 +44,23 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |2.6|class05|[class05](class05.md)|
 |2.7|class06|[class06](https://abrar189.github.io/reading-notes/class06)|
 |2.8|class07|[class07](https://abrar189.github.io/reading-notes/class07)|
-|2.9|class08|[class08](201 read/class08.md)|
-|2.10|class09|[class9](201 read/class9.md)|
-|2.11|class10|[class10](201 read/class10.md)|
-|2.12|class11|[class11](201 read/class11.md)|
-|2.13|class12|[class12](201 read/class12.md)|
-|2.14|class13|[class13](201 read/class13.md)|
-|2.15|class14|[class14](201 read/class14.md)|
-|2.16|class14b|[class14b](201 read/class14b.md)|
+|2.9|class08|[class08](201/class08.md)|
+|2.10|class09|[class9](201/class9.md)|
+|2.11|class10|[class10](201/class10.md)|
+|2.12|class11|[class11](201/class11.md)|
+|2.13|class12|[class12](201/class12.md)|
+|2.14|class13|[class13](201/class13.md)|
+|2.15|class14|[class14](201/class14.md)|
+|2.16|class14b|[class14b](201/class14b.md)|
 |3|301 reading notes
-|3.1|class1|[class1](301 read/class1.md)|
-|3.2|class2|[class2](301 read/class2.md)|
-|3.3|class3|[class3](301 read/class3.md)|
-|3.4|class4|[class4](301 read/class4.md)|
-|3.5|class5|[class5](301 read/class5.md)|
-|3.6|class6|[class6](301 read/class6.md)|
-|3.7|class7|[class7](301 read/class7.md)|
-|3.8|class8|[class8](301 read/class8.md)|
-|3.09|class09|[class09](301 read/class09.md)|
+|3.1|class1|[class1](301/class1.md)|
+|3.2|class2|[class2](301/class2.md)|
+|3.3|class3|[class3](301/class3.md)|
+|3.4|class4|[class4](301/class4.md)|
+|3.5|class5|[class5](301/class5.md)|
+|3.6|class6|[class6](301/class6.md)|
+|3.7|class7|[class7](301/class7.md)|
+|3.8|class8|[class8](301/class8.md)|
+|3.09|class09|[class09](301/class09.md)|
+|3.10|class09|[class10](301/class10.md)|
+
