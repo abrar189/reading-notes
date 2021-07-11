@@ -63,6 +63,7 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |3.8|class8|[class8](301/class8.md)|
 |3.09|class09|[class09](301/class09.md)|
 |3.10|class10|[class10](301/class10.md)|
-|3.11|class011|[class11](301/class11.md)|
+|3.11|class11|[class11](301/class11.md)|
+|3.12|class12|[class12](301/class12.md)|
 
 
