@@ -67,15 +67,21 @@ Compiling is the transformation from Source Code (human readable) into machine c
 1. Visit [Java™](https://docs.oracle.com/javase/8/docs/api//)
 
 2. Click the INDEX link at the top of the page to open the index 
+
 ![image](../img/j.jpg)
 
-   A list of letters is near the top of the index . Click the P link to go to the section with println in it.
-   ![image](../img/j1.jpg)
+A list of letters is near the top of the index . Click the P link to go to the section with println in it.
+
+![image](../img/j1.jpg)
 
 3. In the P section, do a search for println to find the println entries.
+
 4. Pick one of the println entries.
-   ![image](../img/p1.jpg)
+
+ ![image](../img/p1.jpg)
+
 5. Click the link for the entry that you’ve chosen.
+
 
 ## To learn more you can [click here](https://www.dummies.com/programming/java/making-sense-of-javas-api-documentation/)
 
