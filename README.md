@@ -68,4 +68,5 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |3.13|class13|[class13](301/class13.md)|
 |4|401 reading notes
 |4.1|read01|[read01](401/read01.md)|
+|4.2|read02|[read02](401/read02.md)|
 
