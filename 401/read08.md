@@ -1,30 +1,23 @@
-# OO Design
+#  Dont repeat your self 
 
-## SOLID principles intro
+- “Don’t repeat yourself” (DRY, or sometimes “do not repeat yourself”) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.
 
-- Single-responsibility Concept This principle argues that a class should have just one cause to change, or in other words, a single task .
+- The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system”. The principle has been formulated by Andy Hunt and Dave Thomas in their book The Pragmatic Programmer. They apply it quite broadly to include “database schemas, test plans, the build system, even documentation”. When the DRY principle is applied successfully, a modification of any single element of a system does not require a change in other logically unrelated elements. Additionally, elements that are logically related all change predictably and uniformly, and are thus kept in sync. Besides using methods and subroutines in their code, Thomas and Hunt rely on code generators, automatic build systems, and scripting languages to observe the DRY principle across layers.
 
-- SOLID is a structured design approach that ensures your software is modular and easy to maintain, understand, debug, and refactor.
+## Rule of three (computer programming) (Links to an external site.)
 
-- Principle of Interface Segregation This concept asserts that customers should never be compelled to implement an interface that they do not use, or to rely on methods that they do not utilize.
+- Rule of three (“Three strikes and you refactor”) is a code refactoring rule of thumb to decide when similar pieces of code should be refactored to avoid duplication. It states that two instances of similar code do not require refactoring, but when similar code is used three times, it should be extracted into a new procedure. The rule was popularised by Martin Fowler in Refactoring[1] and attributed to Don Roberts.
 
-- The Principle of Dependency Inversion Entities must rely on abstractions rather than concretions, according to this concept. It specifies that the high-level module should rely on abstractions rather than the low-level module. Decoupling is also possible as a result of this.
+- Duplication is considered a bad practice in programming because it makes the code harder to maintain. When the rule encoded in a replicated piece of code changes, whoever maintains the code will have to change it in all places correctly.
 
-## SOLID: The First 5 Principles of Object Oriented Design:
+## minimum viable product (MVP)
 
-1. Single-Responsibility Principle (SRP):
-A class should have one and only one reason to change, meaning that a class should have only one job.
+is a version of a product with just enough features to be usable by early customers who can then provide feedback for future product development. means that developers potentially avoid lengthy and (ultimately) unnecessary work. Instead, they iterate on working versions and respond to feedback, challenging and validating assumptions about a product's requirements.
 
-For example, consider an application that takes a collection of shapes—circles, and squares—and calculates the sum of the area of all the shapes in the collection.
+## SOLID 5 Principles:
 
-2. Open-Closed Principle:
-Objects or entities should be open for extension but closed for modification. This means that a class should be extendable without modifying the class itself.
-
-3. Liskov Substitution Principle:
-Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T. This means that every subclass or derived class should be substitutable for their base or parent class.
-
-4. Interface Segregation Principle:
-A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
-
-5. Dependency Inversion Principle:
-Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
+- S Single-responsiblity Principle
+- O Open-closed Principle
+- L Liskov Substitution Principle
+- I Interface Segregation Principle
+- D Dependency Inversion Principle
