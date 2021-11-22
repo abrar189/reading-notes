@@ -96,8 +96,9 @@ if you want to learn more about growth minddset visit this link  [growth mindset
 |4.27|read39|[read39](401/read39.md)|
 |4.28|read41|[read41](401/read41.md)|
 |4.29|read42|[read42](401/read42.md)|
-|4.30|read43|[read43](401/read43.md)|
-|4.31|read43-2|[read43-2](401/read43-2.md)|
+|4.30|read42-2|[read42-2](401/read42-2.md)|
+|4.31|read43|[read43](401/read43.md)|
+|4.32|read43-2|[read43-2](401/read43-2.md)|
 |    |   |   |   
 
 
